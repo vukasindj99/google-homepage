@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+    display: grid;
+}
+
+.main-form {
+    margin: auto;
+}
+
+#site-search {
+    width: 500px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.divider{
+    width:7px;
+    height:auto;
+    display:inline-block;
+}
